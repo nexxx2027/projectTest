@@ -13,7 +13,7 @@ gem "importmap-rails", "~> 1.1.0"
 gem "turbo-rails", "~> 1.1.1"
 gem "stimulus-rails", "~> 1.0.4"
 gem "jbuilder", "~> 2.11.5"
-gem "bootsnap", "~> 1.12.0", require: false
+gem "bootsnap", "~> 1.18.4", require: false
 
 gem "tzinfo-data", platforms: %i[ windows jruby ]
 gem "solid_cache"

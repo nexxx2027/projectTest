@@ -80,7 +80,7 @@ GEM
     benchmark (0.4.0)
     bigdecimal (3.1.9)
     bindex (0.8.1)
-    bootsnap (1.12.0)
+    bootsnap (1.18.4)
       msgpack (~> 1.2)
     brakeman (7.0.0)
       racc
@@ -387,7 +387,7 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  bootsnap (~> 1.12.0)
+  bootsnap (~> 1.18.4)
   brakeman
   capybara (~> 3.37.1)
   debug (~> 1.5.0)
