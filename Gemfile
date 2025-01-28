@@ -27,7 +27,7 @@ gem "image_processing", "~> 1.2"
 
 group :development, :test do
   gem "sqlite3", ">= 2.1"
-  gem "debug", "~> 1.5.0", platforms: %i[ mri mingw x64_mingw ]
+  gem "debug", "~> 1.10.0", platforms: %i[ mri mingw x64_mingw ]
   gem "brakeman", require: false
   gem "rubocop-rails-omakase", require: false
 end
